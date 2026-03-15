@@ -53,7 +53,7 @@ Creating bots, tools, and projects that make developer life easier.
 
 <p align="center">
   <a href="https://discord.com/users/1030495490963411045">
-    <img src="https://lanyard.cnrad.dev/api/1030495490963411045?theme=dark&bg=0D1117&borderRadius=15&animatedDecoration=true&hideActivity=whenNotUsed" alt="Marius Discord" />
+    <img src="https://lanyard.cnrad.dev/api/1030495490963411045?theme=dark&bg=0D1117&borderRadius=15&animatedDecoration=true&hideActivity=whenNotUsed&showDisplayName=true" alt="Marius Discord" />
   </a>
 </p>
 
