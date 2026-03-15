@@ -92,9 +92,8 @@ Creating bots, tools, and projects that make developer life easier.
 # 🎵 Currently Listening (Spotify)
 
 <p align="center">
-<a href="https://open.spotify.com/user/yourspotifyid">
-<img src="https://spotify-readme.now.sh/api?uid=yourspotifyid&cover_image=true&theme=default"/>
-</a>
+<!-- Bu URL'yi Spotify kullanıcı ID'n ile değiştir -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=90q6u1pkapf3b9zzkiqweyfil&cover_image=true&theme=default" alt="Spotify" />
 </p>
 
 ---
@@ -102,7 +101,8 @@ Creating bots, tools, and projects that make developer life easier.
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mymarius&theme=onedark&row=2&column=3"/>
+<!-- Sabit görsel kullanarak boşa düşmeyi engelledik -->
+<img src="https://img.shields.io/badge/Achievements-🏆-brightgreen" alt="Achievements"/>
 </p>
 
 ---
