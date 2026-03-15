@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Typing Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Marius;Backend+Developer;Discord+Bot+Engineer;Open+Source+Builder;Always+Learning+New+Tech" />
 
 <h1>👋 Hey there, I'm @mymarius</h1>
@@ -9,9 +8,8 @@
 
 <br>
 
-<!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](your-linkedin-url)
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge)](your-discord-url)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge)](https://discord.com/users/USER_ID_BURAYA)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://www.youtube.com/@marius_tracks/)
 
 <p>
@@ -26,7 +24,7 @@ Creating bots, tools, and projects that make developer life easier.
 # 🧠 About Me
 
 - 💻 Backend Developer with focus on scalable systems  
-- 🤖 Discord Bot Engineer & Automation Enthusiast  
+- 🤖 Automation & API Integrations Specialist  
 - 🚀 Exploring Cloud, Kubernetes, and DevOps tools  
 - 📚 Lifelong learner: constantly upgrading my skills  
 
@@ -47,6 +45,16 @@ Creating bots, tools, and projects that make developer life easier.
 ### Currently Learning
 <p>
 <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws&theme=dark" />
+</p>
+
+---
+
+# 🕹️ Discord Presence & Activity
+
+<p align="center">
+  <a href="https://discord.com/users/USER_ID_BURAYA">
+    <img src="https://lanyard.mainer.me/api/1030495490963411045?theme=dark&bg=0D1117&animated=true" alt="Discord Presence" />
+  </a>
 </p>
 
 ---
@@ -89,15 +97,6 @@ Creating bots, tools, and projects that make developer life easier.
 
 ---
 
-# 🎵 Currently Listening (Spotify)
-
-<p align="center">
-<!-- Spotify kullanıcı ID’n ile değiştirildi ve görünür temaya geçildi -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=90q6u1pkapf3b9zzkiqweyfil&cover_image=true&theme=night" alt="Spotify" />
-</p>
-
----
-
 # 🏆 Achievements
 
 <p align="center">
@@ -109,8 +108,7 @@ Creating bots, tools, and projects that make developer life easier.
 # 📫 Contact
 
 - 🎥 YouTube → [@marius_tracks](https://www.youtube.com/@marius_tracks/)  
-- 💬 Discord → **mymarius**  
-- 📧 Email → **mymarius1@gmail.com**
+- 💬 Discord → **mymarius** - 📧 Email → **mymarius1@gmail.com**
 
 ---
 
