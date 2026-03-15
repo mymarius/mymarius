@@ -1,196 +1,204 @@
 <div align="center">
 
-<img src="header.gif" alt="Marius ASCII Header" width="800"/>
+<img src="header.gif" width="950"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Architect+%7C+Node.js+%26+TypeScript;Discord+Ecosystem+Engineer;Minecraft+Client+Developer;Founder+%40+Codexia+Studio;Phonk+Producer+%40+NeonX" alt="Typing SVG" />
+# 🛰 MARIUS // SYSTEMS CONTROL PANEL
 
-<br/>
+```
+STATUS        : ONLINE
+MISSION       : BUILD • SCALE • OPTIMIZE
+LOCATION      : CODEXIA STUDIO
+SPECIALITY    : BACKEND SYSTEMS & ECOSYSTEM ENGINEERING
+SIGNAL        : STABLE
+```
 
-![Status](https://img.shields.io/badge/⚡_Status-Building_Runix-00F7FF?style=flat-square&labelColor=0d1117)
-![Studio](https://img.shields.io/badge/🏢_Studio-Codexia-7C3AED?style=flat-square&labelColor=0d1117)
-![Music](https://img.shields.io/badge/🎵_Music-NeonX_Phonk-FF6B35?style=flat-square&labelColor=0d1117)
-![Views](https://komarev.com/ghpvc/?username=mymarius&color=00F7FF&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Systems+Architect;Discord+Infrastructure+Engineer;Minecraft+Client+Developer;Cloud+Systems+Builder;Founder+%40+Codexia+Studio;NeonX+Phonk+Producer" />
+
+![Telemetry](https://komarev.com/ghpvc/?username=mymarius&color=00F7FF&style=flat-square&label=VISITORS)
+![Mission](https://img.shields.io/badge/MISSION-RUNIX_CLIENT-00F7FF?style=flat-square&labelColor=0d1117)
+![Studio](https://img.shields.io/badge/STUDIO-CODEXIA-7C3AED?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
-## `$ whoami`
+# 🧭 MISSION BRIEF
 
-```typescript
-const marius = {
-  role:     ["Backend Architect", "Discord Engineer", "Studio Founder", "Phonk Producer"],
-  studio:   "Codexia Studio",
-  music:    "NeonX @ YouTube",
-  stack:    ["TypeScript", "Node.js", "C#", "Java", "React", "Next.js"],
-  infra:    ["Docker", "Kubernetes", "AWS", "PostgreSQL", "MongoDB"],
-  building: "Runix Launcher — performance client for low-end PCs",
-  motto:    "Ship fast. Optimize later. Never stop building.",
+Backend engineer focused on building **scalable digital ecosystems**.
+
+Designing high-performance systems across:
+
+- Discord platform engineering
+- Minecraft clients & launchers
+- Cloud-native infrastructures
+- Developer tooling ecosystems
+
+Operating under **Codexia Studio**.
+
+Side signal: producing dark Phonk music as **NeonX**.
+
+---
+
+# 🧬 OPERATOR PROFILE
+
+```ts
+export const Operator = {
+  codename: "Marius",
+  class: "Systems Architect",
+
+  expertise: [
+    "Backend Engineering",
+    "Distributed Systems",
+    "Discord Ecosystems",
+    "Game Tooling",
+    "Performance Optimization"
+  ],
+
+  stack: {
+    backend: ["Node.js", "TypeScript", "Java", "C#"],
+    frontend: ["React", "Next.js"],
+    data: ["PostgreSQL", "MongoDB", "Redis"],
+    infra: ["Docker", "Kubernetes", "AWS", "Linux"]
+  },
+
+  activeMission: "Runix Client",
+  philosophy: "Ship fast. Iterate faster."
 };
 ```
 
 ---
 
-## ⚡ Quick Intel
+# 🚀 ACTIVE MISSIONS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## ⚡ RUNIX CLIENT — PERFORMANCE PROGRAM
 
-### 🔨 What I Build
-- **APIs at scale** — Node.js & TypeScript, built to last
-- **Discord ecosystems** — bots with depth, engagement & lore
-- **Minecraft tooling** — Runix Client, anti-cheat, optimized pipelines
-- **Codexia Studio** — driving products from idea to production
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Active Goals
-- ✦ **Runix Launcher** — squeezing FPS for low-end machines
-- ✦ **Anti-Cheat v2** — behavioural detection logic
-- ✦ **Cloud mastery** — Kubernetes + microservices deep dive
-- ✦ **NeonX** — next Phonk EP in the works
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Arsenal
-
-### ◈ Core Stack
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,java,nodejs,react,nextjs,express&theme=dark&perline=8" />
-</p>
-
-### ◈ Data & Storage
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase&theme=dark&perline=8" />
-</p>
-
-### ◈ Infrastructure & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,bash&theme=dark&perline=8" />
-</p>
-
-### ◈ Tooling & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark&perline=8" />
-</p>
-
----
-
-## 📂 Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🪄 Hogwarts Bot
-> The most immersive Discord RPG ecosystem
-
-- Role-based progression system
-- Economy, quests & lore engine
-- Built for scale — thousands of users
-- **Stack:** `Node.js` `Discord.js` `MongoDB`
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-00F7FF?style=flat-square&labelColor=0d1117)](https://github.com/mymarius)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Runix Client
-> Minecraft performance client for everyone
-
-- Optimized rendering pipeline
-- Custom anti-cheat module
-- Built for low-end hardware
-- **Stack:** `C#` `Java` `WPF`
-
-[![Explore](https://img.shields.io/badge/→_Explore-00F7FF?style=flat-square&labelColor=0d1117)](https://github.com/mymarius)
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 Codexia Shop
-> Full-stack e-commerce for digital products
-
-- Stripe payment integration
-- Auth & license key system
-- Mobile-first, edge-deployed
-- **Stack:** `Next.js` `Tailwind` `Stripe`
-
-[![Visit](https://img.shields.io/badge/→_Visit_Shop-00F7FF?style=flat-square&labelColor=0d1117)](https://github.com/mymarius)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Engine Room
-
-<!-- HEADER_PLACEHOLDER -->
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mymarius&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymarius&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mymarius&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF&sideLabels=00F7FF" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<!-- HEADER_PLACEHOLDER -->
-<img src="https://github-profile-trophy.vercel.app/?username=mymarius&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
-
-## 🎵 NeonX — Phonk Side
-
-<!-- HEADER_PLACEHOLDER -->
-
-> *Production, mixing, and releasing Phonk music under the NeonX alias.*
-> Dark atmospheres. Heavy 808s. Zero compromises.
-
-[![YouTube](https://img.shields.io/badge/NeonX_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marius_tracks/)
-![Genre](https://img.shields.io/badge/Genre-Phonk_/_Dark_Electronic-FF6B35?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🌐 Connect
-
-<!-- HEADER_PLACEHOLDER -->
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](your-discord-url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![YouTube](https://img.shields.io/badge/NeonX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marius_tracks/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mymarius1@gmail.com)
-
-</div>
-
----
-
-<!-- HEADER_PLACEHOLDER -->
+Minecraft optimization client engineered for low-end hardware survival.
 
 ```
-╔══════════════════════════════════════════════════════╗
-║   Built with obsession. Fueled by Phonk.             ║
-║   Codexia Studio © Marius — All rights reserved.     ║
-╚══════════════════════════════════════════════════════╝
+OBJECTIVE   : MAX FPS
+MODE        : OPTIMIZATION
+STATUS      : IN DEVELOPMENT
+PRIORITY    : HIGH
 ```
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+Systems:
+- Rendering optimization
+- Custom anti-cheat logic
+- Lightweight launcher architecture
 
-*`while(alive) { code(); create(); ship(); }`*
+---
 
-</div>
+## 🪄 HOGWARTS BOT — DISCORD ECOSYSTEM
+
+Large-scale RPG infrastructure inside Discord.
+
+```
+USERS        : THOUSANDS
+ARCHITECTURE : MODULAR
+ENGINE       : EVENT-DRIVEN
+STATUS       : OPERATIONAL
+```
+
+Modules:
+- progression engine
+- economy system
+- lore framework
+- automated events
+
+---
+
+## 🛒 CODEXIA SHOP — DIGITAL COMMERCE NODE
+
+Cloud-powered digital product platform.
+
+```
+PAYMENTS : STRIPE
+AUTH     : SECURE TOKENS
+DEPLOY   : EDGE NETWORK
+```
+
+---
+
+# 🛰 TECH SYSTEMS
+
+### CORE SYSTEMS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,cs,java,react,nextjs,express&theme=dark"/>
+</p>
+
+### DATA LAYER
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase&theme=dark"/>
+</p>
+
+### INFRASTRUCTURE
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,bash&theme=dark"/>
+</p>
+
+---
+
+# 📡 TELEMETRY
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mymarius&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymarius&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
+
+</p>
+
+<p align="center">
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mymarius&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+---
+
+# 🏆 ACHIEVEMENT MATRIX
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mymarius&theme=tokyonight&no-bg=true&no-frame=true&column=4"/>
+</p>
+
+---
+
+# 🎧 SIDE SIGNAL — NEONX
+
+```
+GENRE   : PHONK / DARK ELECTRONIC
+OUTPUT  : HEAVY 808 SYSTEMS
+MODE    : CREATIVE OVERDRIVE
+```
+
+[![YouTube](https://img.shields.io/badge/NeonX_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marius_tracks/)
+
+---
+
+# 🌐 COMMUNICATION CHANNELS
+
+<p align="center">
+
+[![Discord](https://img.shields.io/badge/DISCORD-CONNECT-7289DA?style=for-the-badge&logo=discord&logoColor=white)](your-discord-url)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+
+</p>
+
+---
+
+```
+╔════════════════════════════════════════════════════╗
+║ MISSION CONTINUES                                  ║
+║ Codexia Studio Systems Division                   ║
+╚════════════════════════════════════════════════════╝
+```
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+```
+while(alive){
+   build();
+   innovate();
+   deploy();
+}
+```
