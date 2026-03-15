@@ -56,7 +56,7 @@ Creating bots, tools, and projects that make developer life easier.
     <img src="https://lanyard.cnrad.dev/api/1030495490963411045?theme=dark&bg=0D1117&borderRadius=15&animatedDecoration=true&hideActivity=whenNotUsed" alt="Marius Discord" />
   </a>
 </p>
----
+
 
 # 📊 GitHub Analytics
 
