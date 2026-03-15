@@ -53,7 +53,8 @@ Creating bots, tools, and projects that make developer life easier.
 
 <p align="center">
   <a href="https://discord.com/users/1030495490963411045">
-<img src="https://lanyard-visualizer.vercel.app/api/visualizer?userId=1030495490963411045"/></a>
+    <img src="https://lanyard.cnrad.dev/api/1030495490963411045?hideDiscrim=true&borderRadius=10px&theme=dark" alt="Discord Presence" />
+  </a>
 </p>
 
 ---
