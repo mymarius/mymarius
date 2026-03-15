@@ -52,7 +52,7 @@ Creating bots, tools, and projects that make developer life easier.
 # 🕹️ Discord Presence & Activity
 
 <p align="center">
-  <a href="https://discord.com/users/USER_ID_BURAYA">
+  <a href="https://discord.com/users/1030495490963411045">
 <img src="https://lanyard-visualizer.vercel.app/api/visualizer?userId=1030495490963411045"/></a>
 </p>
 
