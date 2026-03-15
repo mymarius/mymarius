@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Marius;Backend+Developer;Discord+Bot+Engineer;Open+Source+Builder;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Marius;Backend+Developer;Discord+Bot+Engineer;Open+Source+Builder;Always+Learning+New+Tech"/>
 
 <h1>👋 Hey there, I'm @mymarius</h1>
 
@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](your-linkedin-url)
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge)](https://discord.com/users/USER_ID_BURAYA)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge)](https://discord.com/users/1030495490963411045)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://www.youtube.com/@marius_tracks/)
 
 <p>
@@ -39,12 +39,12 @@ Creating bots, tools, and projects that make developer life easier.
 
 ### Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,html,css,vscode,discord,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,html,css,vscode,discord,docker&theme=dark"/>
 </p>
 
 ### Currently Learning
 <p>
-<img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws&theme=dark"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Creating bots, tools, and projects that make developer life easier.
 
 <p align="center">
   <a href="https://discord.com/users/USER_ID_BURAYA">
-<img src="https://lanyard-visualizer.vercel.app/api/visualizer?userId=1030495490963411045" />  </a>
+<img src="https://lanyard-visualizer.vercel.app/api/visualizer?userId=1030495490963411045"/></a>
 </p>
 
 ---
