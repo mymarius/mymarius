@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ███╗   ███╗ █████╗ ██████╗ ██╗██╗   ██╗███████╗
- ████╗ ████║██╔══██╗██╔══██╗██║██║   ██║██╔════╝
- ██╔████╔██║███████║██████╔╝██║██║   ██║███████╗
- ██║╚██╔╝██║██╔══██║██╔══██╗██║██║   ██║╚════██║
- ██║ ╚═╝ ██║██║  ██║██║  ██║██║╚██████╔╝███████║
- ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝
-```
+<img src="header.svg" alt="Marius ASCII Header" width="800"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Architect+%7C+Node.js+%26+TypeScript;Discord+Ecosystem+Engineer;Minecraft+Client+Developer;Founder+%40+Codexia+Studio;Phonk+Producer+%40+NeonX" alt="Typing SVG" />
 
@@ -139,7 +132,7 @@ const marius = {
 
 ## 📊 Engine Room
 
-<div align="center">
+<!-- HEADER_PLACEHOLDER -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mymarius&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymarius&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" />
@@ -154,15 +147,15 @@ const marius = {
 
 ## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mymarius&theme=nord&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+<!-- HEADER_PLACEHOLDER -->
+<img src="https://github-profile-trophy.vercel.app/?username=mymarius&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
 
 ## 🎵 NeonX — Phonk Side
 
-<div align="center">
+<!-- HEADER_PLACEHOLDER -->
 
 > *Production, mixing, and releasing Phonk music under the NeonX alias.*
 > Dark atmospheres. Heavy 808s. Zero compromises.
@@ -176,7 +169,7 @@ const marius = {
 
 ## 🌐 Connect
 
-<div align="center">
+<!-- HEADER_PLACEHOLDER -->
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](your-discord-url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
@@ -187,7 +180,7 @@ const marius = {
 
 ---
 
-<div align="center">
+<!-- HEADER_PLACEHOLDER -->
 
 ```
 ╔══════════════════════════════════════════════════════╗
