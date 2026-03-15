@@ -53,10 +53,9 @@ Creating bots, tools, and projects that make developer life easier.
 
 <p align="center">
   <a href="https://discord.com/users/1030495490963411045">
-    <img src="https://lanyard.cnrad.dev/api/1030495490963411045?hideDiscrim=true&borderRadius=10px&theme=dark" alt="Discord Presence" />
+    <img src="https://discord-status-widget.vercel.app/api/1030495490963411045?theme=dark" alt="Discord Status" />
   </a>
 </p>
-
 ---
 
 # 📊 GitHub Analytics
