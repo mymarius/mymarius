@@ -53,8 +53,7 @@ Creating bots, tools, and projects that make developer life easier.
 
 <p align="center">
   <a href="https://discord.com/users/USER_ID_BURAYA">
-    <img src="https://lanyard.mainer.me/api/1030495490963411045?theme=dark&bg=0D1117&animated=true" alt="Discord Presence" />
-  </a>
+<img src="https://lanyard-visualizer.vercel.app/api/visualizer?userId=1030495490963411045" />  </a>
 </p>
 
 ---
