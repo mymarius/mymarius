@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Marius ASCII Header" width="800"/>
+<img src="header.gif" alt="Marius ASCII Header" width="800"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Architect+%7C+Node.js+%26+TypeScript;Discord+Ecosystem+Engineer;Minecraft+Client+Developer;Founder+%40+Codexia+Studio;Phonk+Producer+%40+NeonX" alt="Typing SVG" />
 
