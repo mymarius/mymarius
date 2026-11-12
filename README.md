@@ -109,7 +109,7 @@ I enjoy building tools, applications, and automation systems that solve real-wor
 
 <div align="center">
 
-  <a href="https://discord.com/users/1030495490963411045">
+  <a href="https://discord.com/users/521014919689404437">
     <img src="https://img.shields.io/badge/Discord-mymarius-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
