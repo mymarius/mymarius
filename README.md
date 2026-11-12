@@ -110,8 +110,21 @@ I enjoy building tools, applications, and automation systems that solve real-wor
 <div align="center">
 
   <a href="https://discord.com/users/521014919689404437">
-    <img src="https://img.shields.io/badge/Discord-mymarius-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img
+      src="https://lanyard.cnrad.dev/api/521014919689404437?theme=dark&bg=0D1117&borderRadius=15&animatedDecoration=true&hideActivity=whenNotUsed&showDisplayName=true&hideBadges=false"
+      alt="Marius Discord Presence"
+      width="500"
+    />
   </a>
+
+  <br><br>
+
+  <a href="https://discord.com/users/1030495490963411045">
+    <img src="https://img.shields.io/badge/VIEW_DISCORD_PROFILE-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+</div>
+```
 
   <p>
     Feel free to connect with me on Discord.
